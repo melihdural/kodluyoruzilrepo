@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Csharpprogramlama/1.0.0": {
+        "runtime": {
+          "Csharpprogramlama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharpprogramlama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
