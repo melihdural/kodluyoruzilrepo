@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melih\\Desktop\\Code\\Csharpprogramlama\\Csharpprogramlama.csproj",
+      "projectUniqueName": "C:\\Users\\melih\\Desktop\\Code\\kodluyoruzilrepo\\cSharpProgramlamaEgitim\\Csharpprogramlama.csproj",
       "projectName": "Csharpprogramlama",
-      "projectPath": "C:\\Users\\melih\\Desktop\\Code\\Csharpprogramlama\\Csharpprogramlama.csproj",
+      "projectPath": "C:\\Users\\melih\\Desktop\\Code\\kodluyoruzilrepo\\cSharpProgramlamaEgitim\\Csharpprogramlama.csproj",
       "packagesPath": "C:\\Users\\melih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melih\\Desktop\\Code\\Csharpprogramlama\\obj\\",
+      "outputPath": "C:\\Users\\melih\\Desktop\\Code\\kodluyoruzilrepo\\cSharpProgramlamaEgitim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melih\\AppData\\Roaming\\NuGet\\NuGet.Config"
