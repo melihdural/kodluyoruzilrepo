@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz/Patika](https://app.patika.dev/courses/git/odev1) versiyon kontrol sistemi(GIT) eğitimi kapsamında oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+* ***Not: Repo Ayrıca C#101 Dersi için kullanılmaktadır.***
+
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizn reponuzdan aldığınız link gelecek)
