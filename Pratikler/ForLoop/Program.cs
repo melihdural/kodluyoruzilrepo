@@ -15,21 +15,27 @@ namespace ForLoop
 
         private static void StairCase(int n)
         {
-            for (int i = 0; i < n; i++)
-            {
-                
-                Console.WriteLine(new string('#', i+1).PadLeft(n,' '));
-                if(i==3)
-                {
-                    Console.WriteLine("i=3");
-                    continue;
-                }
+            string str = "#";
+            string newStr = string.Empty;
+            
 
-                if(i>6)
-                {
-                    Console.WriteLine("i=6 loop concluded by break;");
-                    break;
-                }
+            for (int i=0; i < n; i++)
+            {
+                newStr += str[0]; 
+                Console.WriteLine(newStr.PadLeft(n,' '));
+
+                // Console.WriteLine(new string('#', i+1).PadLeft(n,' '));
+                // if(i==3)
+                // {
+                //     Console.WriteLine("i=3");
+                //     continue;
+                // }
+
+                // if(i>6)
+                // {
+                //     Console.WriteLine("i=6 loop concluded by break;");
+                //     break;
+                // }
             }
         }
     }
