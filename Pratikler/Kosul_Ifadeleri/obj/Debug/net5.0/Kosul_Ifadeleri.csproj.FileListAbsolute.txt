@@ -1,0 +1,16 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\bin\Debug\net5.0\Kosul_Ifadeleri.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\bin\Debug\net5.0\Kosul_Ifadeleri.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\bin\Debug\net5.0\Kosul_Ifadeleri.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\bin\Debug\net5.0\Kosul_Ifadeleri.runtimeconfig.dev.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\bin\Debug\net5.0\Kosul_Ifadeleri.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\bin\Debug\net5.0\ref\Kosul_Ifadeleri.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\bin\Debug\net5.0\Kosul_Ifadeleri.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\Kosul_Ifadeleri.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\Kosul_Ifadeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\Kosul_Ifadeleri.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\Kosul_Ifadeleri.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\Kosul_Ifadeleri.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\Kosul_Ifadeleri.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\ref\Kosul_Ifadeleri.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\Kosul_Ifadeleri.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Kosul_Ifadeleri\obj\Debug\net5.0\Kosul_Ifadeleri.genruntimeconfig.cache
