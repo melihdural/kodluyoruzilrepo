@@ -19,7 +19,6 @@ namespace ForLoop
             {
                 
                 Console.WriteLine(new string('#', i+1).PadLeft(n,' '));
-                
                 if(i==3)
                 {
                     Console.WriteLine("i=3");
