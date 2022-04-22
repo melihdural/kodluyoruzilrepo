@@ -18,13 +18,11 @@ namespace ForLoop
             string str = "#";
             string newStr = string.Empty;
             
-
             for (int i=0; i < n; i++)
             {
                 newStr += str[0]; 
                 Console.WriteLine(newStr.PadLeft(n,' '));
 
-                // Console.WriteLine(new string('#', i+1).PadLeft(n,' '));
                 // if(i==3)
                 // {
                 //     Console.WriteLine("i=3");
