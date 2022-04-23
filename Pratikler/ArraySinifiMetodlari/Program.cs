@@ -9,8 +9,33 @@ namespace ArraySinifiMetodlari
         {
             BirthdayCakeCandles();           
             SimpleArraySum();
+            Arrays();
 
             Console.ReadKey();
+        }
+
+        private static void Arrays()
+        {
+            Console.Write("Lütfen dizi boyutunu giriniz: ");
+            int arraySize = int.Parse(Console.ReadLine());
+            int[] numbers = new int[arraySize];
+
+            for (int i = 0; i < arraySize; i++)
+            {
+                Console.Write("Lütfen dizinin {0}. elemanını giriniz: ", i+1);
+                numbers[i] = int.Parse(Console.ReadLine());
+            }
+            
+            Array.Reverse(numbers);
+
+            
+
+            foreach (var n in numbers)
+            {
+                Console.Write(n + " ");
+            }
+
+
         }
 
         private static void SimpleArraySum()
