@@ -10,13 +10,42 @@ namespace ArraySinifiMetodlari
             // BirthdayCakeCandles();           
             // SimpleArraySum();
             // Arrays();
-            //aVeryBigSum();
-            
+            // aVeryBigSum();
+            // ComparaTriplets();
+
 
 
 
 
             Console.ReadKey();
+        }
+
+        private static void ComparaTriplets()
+        {
+            int[] a = new int [3];
+            int[] b = new int [3];
+            int aTotalPoint = 0;
+            int bTotalPoint = 0;
+
+            for (int i = 0; i < a.Length; i++)
+            {
+                Console.Write("Lütfen Alice'in {0}. koşul için puanını giriniz: ", i+1);
+                a[i] = int.Parse(Console.ReadLine());
+                Console.Write("Lütfen Bob'un {0}. koşul için puanını giriniz: ", i+1);
+                b[i] = int.Parse(Console.ReadLine());
+
+                if(a[i]<b[i])
+                {
+                    bTotalPoint++;
+                }
+                else if(a[i]>b[i])
+                {
+                    aTotalPoint++;
+                }
+            }
+
+            int[] scoreBoard = { aTotalPoint, bTotalPoint};
+            Console.WriteLine("Alice: {0} - Bob: {1}", aTotalPoint, bTotalPoint);
         }
 
          private static void aVeryBigSum()
