@@ -7,6 +7,37 @@ namespace ArraySinifiMetodlari
     {
         static void Main(string[] args)
         {
+            BirthdayCakeCandles();           
+            SimpleArraySum();
+
+            Console.ReadKey();
+        }
+
+        private static void SimpleArraySum()
+        {
+            int sum = 0;
+            Console.Write("Lütfen dizi boyutunu giriniz: ");
+            int arraySize = int.Parse(Console.ReadLine());
+            int[] numbers = new int[arraySize];
+
+            for (int i = 0; i < arraySize; i++)
+            {
+                Console.Write("Lütfen dizinin {0}. elemanını giriniz: ", i+1);
+                numbers[i] = int.Parse(Console.ReadLine());
+            }
+
+            foreach (var n in numbers)
+            {
+                sum+=n;                
+            }
+
+            Console.WriteLine("Dizi elemanlarınızın toplamı: " + sum + " kadardır.");
+
+
+        }
+
+        private static void BirthdayCakeCandles()
+        {
             Console.Write("Lürfen dizi boyutunu giriniz: ");
             int candlesCount = int.Parse(Console.ReadLine());
             int[] candles = new int[candlesCount];
@@ -33,9 +64,6 @@ namespace ArraySinifiMetodlari
 
             Console.WriteLine("Üflenebilir mum adedi " + result + " kadardır.");
 
-
-
-            Console.ReadKey();
         }
     }
 }
