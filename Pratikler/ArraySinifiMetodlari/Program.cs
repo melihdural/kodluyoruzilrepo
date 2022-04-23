@@ -7,11 +7,38 @@ namespace ArraySinifiMetodlari
     {
         static void Main(string[] args)
         {
-            BirthdayCakeCandles();           
-            SimpleArraySum();
-            Arrays();
+            // BirthdayCakeCandles();           
+            // SimpleArraySum();
+            // Arrays();
+            //aVeryBigSum();
+            
+
+
+
 
             Console.ReadKey();
+        }
+
+         private static void aVeryBigSum()
+        {
+            Console.Write("Lütfen dizi boyutunu giriniz: ");
+            int arraySize = int.Parse(Console.ReadLine());
+            long[] bigNums = new long[arraySize];
+            long sum = 0;
+
+                for (int i = 0; i < arraySize; i++)
+                {
+                    Console.Write("Lütfen dizinin {0}. elemanına long türünde bir sayı giriniz: ", i+1);
+                    bigNums[i] = int.Parse(Console.ReadLine());
+                }
+
+                foreach (var b in bigNums)
+                {
+                    sum += b;
+                }
+
+                Console.WriteLine(sum);
+
         }
 
         private static void Arrays()
