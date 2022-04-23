@@ -1,0 +1,16 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.runtimeconfig.dev.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\bin\Debug\net5.0\ref\ArraySinifiMetodlari.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ref\ArraySinifiMetodlari.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.genruntimeconfig.cache
