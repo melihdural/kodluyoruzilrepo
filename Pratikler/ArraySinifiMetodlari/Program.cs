@@ -27,7 +27,7 @@ namespace ArraySinifiMetodlari
             Console.Write("Lütfen toplam öten kuş sayısını giriniz: ");
             int totalBirds = int.Parse(Console.ReadLine());
             int[] birds = new int[totalBirds];
-            bool birdIndexOk = false;
+            
 
             for (int i = 0; i < totalBirds; i++)
             {
