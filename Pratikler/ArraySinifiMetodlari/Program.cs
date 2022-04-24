@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ArraySinifiMetodlari
 {
@@ -12,12 +13,57 @@ namespace ArraySinifiMetodlari
             // Arrays();
             // aVeryBigSum();
             // ComparaTriplets();
+            // MigratoryBirds();
 
-
+            
 
 
 
             Console.ReadKey();
+        }
+
+        private static void MigratoryBirds()
+        {
+            Console.Write("Lütfen toplam öten kuş sayısını giriniz: ");
+            int totalBirds = int.Parse(Console.ReadLine());
+            int[] birds = new int[totalBirds];
+            bool birdIndexOk = false;
+
+            for (int i = 0; i < totalBirds; i++)
+            {
+                Console.Write("Lütfen öten kuşun numarasını(1-5 arasında) giriniz: ");
+                birds[i] = int.Parse(Console.ReadLine());
+            }
+
+            int[] types = new int[5];
+            foreach (var b in birds)
+            {
+                switch (b)
+                {
+                    case 1:
+                        types[0]++;
+                        break;
+                    case 2:
+                        types[1]++;
+                        break;
+                    case 3:
+                        types[2]++;
+                        break;
+                    case 4:
+                        types[3]++;
+                        break;
+                    case 5:
+                        types[4]++;
+                        break;
+
+                }
+                                
+            }
+            
+            int result= Array.IndexOf(types,types.Max() )+1;
+            Console.WriteLine("En çok öten kuş türü {0}. tür.",result);
+            
+
         }
 
         private static void ComparaTriplets()
