@@ -1,0 +1,16 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\bin\Debug\net5.0\MetotOverLoading.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\bin\Debug\net5.0\MetotOverLoading.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\bin\Debug\net5.0\MetotOverLoading.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\bin\Debug\net5.0\MetotOverLoading.runtimeconfig.dev.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\bin\Debug\net5.0\MetotOverLoading.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\bin\Debug\net5.0\ref\MetotOverLoading.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\bin\Debug\net5.0\MetotOverLoading.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\MetotOverLoading.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\MetotOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\MetotOverLoading.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\MetotOverLoading.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\MetotOverLoading.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\MetotOverLoading.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\ref\MetotOverLoading.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\MetotOverLoading.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\MetotOverLoading\obj\Debug\net5.0\MetotOverLoading.genruntimeconfig.cache
