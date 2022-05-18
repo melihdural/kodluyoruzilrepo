@@ -1,0 +1,16 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\bin\Debug\net5.0\ExtensionRekürsifMetotlar.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\bin\Debug\net5.0\ExtensionRekürsifMetotlar.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\bin\Debug\net5.0\ExtensionRekürsifMetotlar.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\bin\Debug\net5.0\ExtensionRekürsifMetotlar.runtimeconfig.dev.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\bin\Debug\net5.0\ExtensionRekürsifMetotlar.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\bin\Debug\net5.0\ref\ExtensionRekürsifMetotlar.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\bin\Debug\net5.0\ExtensionRekürsifMetotlar.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ExtensionRekürsifMetotlar.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ExtensionRekürsifMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ExtensionRekürsifMetotlar.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ExtensionRekürsifMetotlar.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ExtensionRekürsifMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ExtensionRekürsifMetotlar.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ref\ExtensionRekürsifMetotlar.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ExtensionRekürsifMetotlar.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\ExtensionRekürsifMetotlar\obj\Debug\net5.0\ExtensionRekürsifMetotlar.genruntimeconfig.cache
