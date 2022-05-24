@@ -1,0 +1,16 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\bin\Debug\net5.0\DateTime&MathMetotlari.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\bin\Debug\net5.0\DateTime&MathMetotlari.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\bin\Debug\net5.0\DateTime&MathMetotlari.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\bin\Debug\net5.0\DateTime&MathMetotlari.runtimeconfig.dev.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\bin\Debug\net5.0\DateTime&MathMetotlari.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\bin\Debug\net5.0\ref\DateTime&MathMetotlari.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\bin\Debug\net5.0\DateTime&MathMetotlari.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\DateTime&MathMetotlari.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\DateTime&MathMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\DateTime&MathMetotlari.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\DateTime&MathMetotlari.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\DateTime&MathMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\DateTime&MathMetotlari.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\ref\DateTime&MathMetotlari.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\DateTime&MathMetotlari.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\DateTime&MathMetotlari\obj\Debug\net5.0\DateTime&MathMetotlari.genruntimeconfig.cache
