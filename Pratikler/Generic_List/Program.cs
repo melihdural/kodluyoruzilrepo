@@ -74,9 +74,6 @@ namespace Generic_List
             kullaniciListesi.Add(kullanici1);
             kullaniciListesi.Add(kullanici2);
 
-            List<Kullanicilar> yeniListe = new List<Kullanicilar>();
-            yeniListe.Add(new Kullanicilar() {İsim = "Koray", Soyisim = "Altunok", Yasi = 32});
-            
             foreach (var kullanici in kullaniciListesi)
             {
                 Console.WriteLine("Kullanici Adi: " + kullanici.İsim);
@@ -84,6 +81,9 @@ namespace Generic_List
                 Console.WriteLine("Kullanici Yasi: " + kullanici.Yasi);
                 Console.WriteLine("---------------------------------");
             }
+            
+            List<Kullanicilar> yeniListe = new List<Kullanicilar>();
+            yeniListe.Add(new Kullanicilar() {İsim = "Koray", Soyisim = "Altunok", Yasi = 32});
             
         }
     }
