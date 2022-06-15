@@ -1,0 +1,5 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Generic_List\obj\Debug\net5.0\Generic_List.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Generic_List\obj\Debug\net5.0\Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Generic_List\obj\Debug\net5.0\Generic_List.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Generic_List\obj\Debug\net5.0\Generic_List.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Generic_List\obj\Debug\net5.0\Generic_List.csproj.CoreCompileInputs.cache
