@@ -4,11 +4,7 @@
     <projectFile>Soru-2/Soru-2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ab7ccb-1e6c-4ae5-a467-8cb149921196" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Soru-1/.idea/.idea.Soru-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Soru-1/.idea/.idea.Soru-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Soru-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Soru-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Soru-2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Soru-2/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="d2ab7ccb-1e6c-4ae5-a467-8cb149921196" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,8 +56,23 @@
       <updated>1655322594977</updated>
       <workItem from="1655322596908" duration="11000" />
       <workItem from="1655330051951" duration="295000" />
-      <workItem from="1655377449736" duration="2101000" />
+      <workItem from="1655377449736" duration="2613000" />
     </task>
+    <task id="LOCAL-00001" summary="Odev-2/Soru-2 tamamlandı">
+      <created>1655379739153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655379739153</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Odev-2/Soru-2 hata düzeltmesi yapıldı">
+      <created>1655379795199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655379795199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,7 +81,21 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Odev-2/Soru-2 tamamlandı" />
+    <MESSAGE value="Odev-2/Soru-2 hata düzeltmesi yapıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Odev-2/Soru-2 hata düzeltmesi yapıldı" />
   </component>
 </project>
