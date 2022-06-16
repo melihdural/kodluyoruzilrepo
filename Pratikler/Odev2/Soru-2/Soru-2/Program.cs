@@ -14,7 +14,7 @@ namespace Soru_2
             int biggestTotal = 0;
             ArrayList numbers = new ArrayList();
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 20; i++)
             {
                 while (true)
                 {
