@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\bin\Debug\net6.0\Sınıf_Kavramı.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\bin\Debug\net6.0\Sınıf_Kavramı.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\bin\Debug\net6.0\Sınıf_Kavramı.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\bin\Debug\net6.0\Sınıf_Kavramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\bin\Debug\net6.0\Sınıf_Kavramı.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\Sınıf_Kavramı.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\Sınıf_Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\Sınıf_Kavramı.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\Sınıf_Kavramı.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\Sınıf_Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\Sınıf_Kavramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\refint\Sınıf_Kavramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\Sınıf_Kavramı.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\Sınıf_Kavramı.genruntimeconfig.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Sınıf_Kavramı\Sınıf_Kavramı\obj\Debug\net6.0\ref\Sınıf_Kavramı.dll
