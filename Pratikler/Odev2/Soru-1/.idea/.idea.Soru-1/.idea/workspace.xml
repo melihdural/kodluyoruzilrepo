@@ -4,7 +4,11 @@
     <projectFile>Soru-1/Soru-1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="013a2ebf-acbf-4a6f-998c-fb6e91733459" name="Changes" comment="" />
+    <list default="true" id="013a2ebf-acbf-4a6f-998c-fb6e91733459" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Soru-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Soru-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Soru-2/.idea/.idea.Soru-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Soru-2/.idea/.idea.Soru-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Soru-2/Soru-2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Soru-2/Soru-2/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.Soru-1">
+  <component name="RunManager">
     <configuration name="Soru-1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -63,6 +67,8 @@
       <workItem from="1655322573642" duration="20000" />
       <workItem from="1655322739068" duration="3996000" />
       <workItem from="1655326794423" duration="2969000" />
+      <workItem from="1655329921299" duration="122000" />
+      <workItem from="1655379136908" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="Soru-1 Çözümleri">
       <created>1655328994966</created>

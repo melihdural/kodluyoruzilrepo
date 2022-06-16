@@ -4,11 +4,18 @@
     <projectFile>Soru-2/Soru-2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ab7ccb-1e6c-4ae5-a467-8cb149921196" name="Changes" comment="" />
+    <list default="true" id="d2ab7ccb-1e6c-4ae5-a467-8cb149921196" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Soru-1/.idea/.idea.Soru-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Soru-1/.idea/.idea.Soru-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Soru-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Soru-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Soru-2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Soru-2/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AcxIWOjlHkRJ0UEtB1yPOgvknH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Soru-2" type="DotNetProject" factoryName=".NET Project">
@@ -51,6 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1655322594977</updated>
       <workItem from="1655322596908" duration="11000" />
+      <workItem from="1655330051951" duration="295000" />
+      <workItem from="1655377449736" duration="2101000" />
     </task>
     <servers />
   </component>
@@ -58,7 +68,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
