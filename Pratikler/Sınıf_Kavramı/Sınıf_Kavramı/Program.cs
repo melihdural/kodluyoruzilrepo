@@ -6,6 +6,22 @@ namespace Sınıf_Kavramı
     {
         static void Main(string[] args)
         {
+            // Söz Dizimi
+            // class SınıfAdı
+            // {
+            //      [Erişim Belirleyici] [Veri Tipi] Özellik Adı;
+            //      [Erişim Belirleyici] [Geri Dönüş Tipi] Metod Adı (Parametre Listesi);
+            //      {
+            //          //Metot Komutları
+            //      }
+            // }
+            
+            // Erişim Belirleyiciler
+            // * Public : Her yerden erişilebilir.
+            // * Private : Sadece tanımlandığı sınıf içerisinden erişilebilir.
+            // * Internal : Sadece bulunduğu proje içerisinden erişilebilir.
+            // * Protected : Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.
+
             Calisan calisan1 = new Calisan();
             calisan1.Ad = "Ayşe";
             calisan1.Soyad = "Kara";
