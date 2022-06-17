@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\bin\Debug\net6.0\Struck_Kavaramı.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\bin\Debug\net6.0\Struck_Kavaramı.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\bin\Debug\net6.0\Struck_Kavaramı.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\bin\Debug\net6.0\Struck_Kavaramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\bin\Debug\net6.0\Struck_Kavaramı.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\Struck_Kavaramı.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\Struck_Kavaramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\Struck_Kavaramı.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\Struck_Kavaramı.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\Struck_Kavaramı.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\Struck_Kavaramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\refint\Struck_Kavaramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\Struck_Kavaramı.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\Struck_Kavaramı.genruntimeconfig.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Struck_Kavaramı\Struck_Kavaramı\obj\Debug\net6.0\ref\Struck_Kavaramı.dll

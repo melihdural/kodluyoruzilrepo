@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Struck_Kavaramı/1.0.0": {
+        "runtime": {
+          "Struck_Kavaramı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Struck_Kavaramı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

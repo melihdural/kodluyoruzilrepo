@@ -4,9 +4,8 @@
     <projectFile>Statik_Sinif_ve_Uyeler/Statik_Sinif_ve_Uyeler.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be037fc-b9d8-4cef-b4f3-cb7be34d997e" name="Changes" comment="First commit of Static_Sinif_ve_Uyeler.">
+    <list default="true" id="6be037fc-b9d8-4cef-b4f3-cb7be34d997e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Statik_Sinif_ve_Uyeler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Statik_Sinif_ve_Uyeler/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statik_Sinif_ve_Uyeler/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Statik_Sinif_ve_Uyeler/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Statik_Sinif_ve_Uyeler/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/melih/Desktop/Code/kodluyoruzilrepo/Pratikler/Statik_Sinif_ve_Uyeler/Statik_Sinif_ve_Uyeler/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655467666223</updated>
-      <workItem from="1655467668488" duration="1027000" />
+      <workItem from="1655467668488" duration="1406000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of Static_Sinif_ve_Uyeler.">
       <created>1655467762863</created>
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655467762863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Statik sınıflar ve üyeler dersi tamamlandı.">
+      <created>1655469377984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655469377984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="First commit of Static_Sinif_ve_Uyeler." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit of Static_Sinif_ve_Uyeler." />
+    <MESSAGE value="Statik sınıflar ve üyeler dersi tamamlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Statik sınıflar ve üyeler dersi tamamlandı." />
   </component>
 </project>

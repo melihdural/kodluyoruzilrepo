@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\bin\Debug\net6.0\Statik_Sinif_ve_Uyeler.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\bin\Debug\net6.0\Statik_Sinif_ve_Uyeler.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\bin\Debug\net6.0\Statik_Sinif_ve_Uyeler.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\bin\Debug\net6.0\Statik_Sinif_ve_Uyeler.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\bin\Debug\net6.0\Statik_Sinif_ve_Uyeler.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\Statik_Sinif_ve_Uyeler.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\Statik_Sinif_ve_Uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\Statik_Sinif_ve_Uyeler.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\Statik_Sinif_ve_Uyeler.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\Statik_Sinif_ve_Uyeler.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\Statik_Sinif_ve_Uyeler.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\refint\Statik_Sinif_ve_Uyeler.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\Statik_Sinif_ve_Uyeler.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\Statik_Sinif_ve_Uyeler.genruntimeconfig.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Statik_Sinif_ve_Uyeler\Statik_Sinif_ve_Uyeler\obj\Debug\net6.0\ref\Statik_Sinif_ve_Uyeler.dll
