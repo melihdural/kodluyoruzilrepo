@@ -4,11 +4,16 @@
     <projectFile>Enum_Kavramı/Enum_Kavramı.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a4723f-54b0-414e-8a47-af084e9bf0ba" name="Changes" comment="" />
+    <list default="true" id="e5a4723f-54b0-414e-8a47-af084e9bf0ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Enum_Kavramı/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Enum_Kavramı/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Enum_Kavramı/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655471609711</updated>
-      <workItem from="1655471611636" duration="304000" />
+      <workItem from="1655471611636" duration="1365000" />
     </task>
+    <task id="LOCAL-00001" summary="Enum_Kavramı dersi tamamlandı.">
+      <created>1655472071691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655472071691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,7 +77,20 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Enum_Kavramı dersi tamamlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Enum_Kavramı dersi tamamlandı." />
   </component>
 </project>
