@@ -6,6 +6,14 @@ public class Bitkiler:Canlılar
     {
         Console.WriteLine("Bitkiler fotosentez yaparlar.");
     }
+
+   //UyaranalaraTepki metodunu canlılardan bir kere çek ve çalıştır.
+    public override void UyaranlaraTepki()
+    {
+        //base.UyaranlaraTepki();
+        // Bu kod açılmazsa Canlılar içindeki UyaranlaraTepki() metodu çalışmaz.
+        Console.WriteLine("Bitkiler güneşe tepki verir.");
+    }
 }
 
 public class TohumluBitkiler:Bitkiler
@@ -16,6 +24,7 @@ public class TohumluBitkiler:Bitkiler
         base.Beslenme();
         base.Bosaltim();
         base.Solunum();
+        base.UyaranlaraTepki();
     }
     public void TohumlaCogalma()
     {

@@ -12,8 +12,13 @@ public class Canlılar
         Console.WriteLine("Canlılar ssolunum yapar.");
     }
 
-    protected void Bosaltim()
+    public void Bosaltim()
     {
         Console.WriteLine("Canlılar boşaltım yapar.");
+    }
+
+    public virtual void UyaranlaraTepki()
+    {
+        Console.WriteLine("Canlılar uyaranlara tepki verir.");
     }
 }

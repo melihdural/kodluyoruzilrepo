@@ -6,6 +6,12 @@ public class Hayvanlar:Canlılar
     {
         Console.WriteLine("Hayvanlar adaptasyon kurabilir.");
     }
+
+    public override void UyaranlaraTepki()
+    {
+        base.UyaranlaraTepki();
+        Console.WriteLine("Hayvanlar temasa tepki verir.");
+    }
 }
 
 //Inheritance; ":" kalıtım kurma şeklidir. ":" önceki sınıfa kalıtım verilen, sonraki sınıf ise üst sınıftır(miras alınan)
@@ -32,6 +38,7 @@ public class Kuşlar:Hayvanlar
         base.Beslenme();
         base.Bosaltim();
         base.Solunum();
+        base.UyaranlaraTepki();
     }
     public void Ucmak()
     {
