@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\bin\Debug\net6.0\Enum_Kavramı.exe
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\bin\Debug\net6.0\Enum_Kavramı.deps.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\bin\Debug\net6.0\Enum_Kavramı.runtimeconfig.json
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\bin\Debug\net6.0\Enum_Kavramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\bin\Debug\net6.0\Enum_Kavramı.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\Enum_Kavramı.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\Enum_Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\Enum_Kavramı.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\Enum_Kavramı.AssemblyInfo.cs
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\Enum_Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\Enum_Kavramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\refint\Enum_Kavramı.dll
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\Enum_Kavramı.pdb
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\Enum_Kavramı.genruntimeconfig.cache
+C:\Users\melih\Desktop\Code\kodluyoruzilrepo\Pratikler\Enum_Kavramı\Enum_Kavramı\obj\Debug\net6.0\ref\Enum_Kavramı.dll
