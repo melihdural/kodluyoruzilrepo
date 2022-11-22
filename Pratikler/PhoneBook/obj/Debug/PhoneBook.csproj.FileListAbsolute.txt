@@ -1,0 +1,6 @@
+/Users/melihdural/Projects/PhoneBook/PhoneBook/bin/Debug/PhoneBook.exe
+/Users/melihdural/Projects/PhoneBook/PhoneBook/bin/Debug/PhoneBook.pdb
+/Users/melihdural/Projects/PhoneBook/PhoneBook/obj/Debug/PhoneBook.csproj.AssemblyReference.cache
+/Users/melihdural/Projects/PhoneBook/PhoneBook/obj/Debug/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/melihdural/Projects/PhoneBook/PhoneBook/obj/Debug/PhoneBook.exe
+/Users/melihdural/Projects/PhoneBook/PhoneBook/obj/Debug/PhoneBook.pdb
